@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Javier</h1>
 <h3 align="center">Sofware engineering student</h3>
 
+
 - 🌍 I’m based in **Sevilla**
 
 - 🌱 I’m currently learning **Django, Flask, and Linux**
@@ -8,6 +9,7 @@
 - 📫 You can contact me at **javgarciar@gmail.com**
 
 
+[![Spotify](https://spotify-now-playing-syrophs-projects.vercel.app/api/spotify)](https://open.spotify.com/user/t73co0wxov31djq916mjoc7wc) 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
